@@ -1,19 +1,9 @@
 <a name="readme-top"></a>
 
-<!-- BOUCLIERS DE PROJET -->
-<!--
-*** J'utilise des liens "de style de référence" démarqués pour la lisibilité.
-*** Les liens de référence sont entre crochets [ ] au lieu de parenthèses ( ).
-*** Voir en bas de ce document pour la déclaration des variables de référence
-*** pour les contributeurs-url, forks-url, etc. Il s'agit d'une syntaxe facultative et concise que vous pouvez utiliser.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
 [![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
 [![Observateurs d'étoiles][bouclier d'étoiles]][url d'étoiles]
 [![Problèmes][problèmes-bouclier]][problèmes-url]
 [![Licence MIT][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
@@ -24,67 +14,14 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Meilleur-Modèle README</h3>
-
-  <p align="center">
-    Un modèle README génial pour démarrer vos projets !
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explorer la documentation »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">Voir la démo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Signaler un bogue</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Fonctionnalité de demande</a>
-  </p>
+  <h3 align="center">Documentation Zikaa</h3>
 </div>
-
-
-
-<!-- SOMMAIRE -->
-<détails>
-  <summary>Table des matières</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">À propos du projet</a>
-      <ul>
-        <li><a href="#built-with">Construit avec</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Mise en route</a>
-      <ul>
-        <li><a href="#prerequisites">Prérequis</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Utilisation</a></li>
-    <li><a href="#roadmap">Feuille de route</a></li>
-    <li><a href="#contribuer">Contribuer</a></li>
-    <li><a href="#license">Licence</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#reconnaissances">Remerciements</a></li>
-  </ol>
-</détails>
-
 
 
 <!-- À PROPOS DU PROJET -->
 ## À propos du projet
 
-[![Capture d'écran du nom du produit][product-screenshot]](https://example.com)
-
-Il existe de nombreux excellents modèles README disponibles sur GitHub ; cependant, je n'en ai pas trouvé qui corresponde vraiment à mes besoins, alors j'ai créé celui-ci amélioré. Je veux créer un modèle README si étonnant que ce sera le dernier dont vous aurez besoin - je pense que c'est tout.
-
-Voici pourquoi:
-* Votre temps doit être concentré sur la création de quelque chose d'incroyable. Un projet qui résout un problème et aide les autres
-* Vous ne devriez pas faire les mêmes tâches encore et encore comme créer un README à partir de zéro
-* Vous devez mettre en œuvre les principes DRY pour le reste de votre vie :smile:
-
-Bien sûr, aucun modèle ne servira à tous les projets puisque vos besoins peuvent être différents. J'en ajouterai donc d'autres prochainement. Vous pouvez également suggérer des modifications en bifurquant ce dépôt et en créant une demande d'extraction ou en ouvrant un problème. Merci à toutes les personnes qui ont contribué à l'expansion de ce modèle !
-
-Utilisez le `BLANK_README.md` pour commencer.
+Zikaa est un forum pour permettre aux utilisateurs d'appendre ou bien de trouvé ce qu'il cherche en un seul endroit. Nous avons mis à dispistion une application qui permet de vendre (gratuitement ou payant) des ressoruces (plugins minecraft / template site web etc..). Zikaa ne prend AUCUNE marge sur votre vente de ressources l'argent sera entièrement distribué pour vous.
 
 <p align="right">(<a href="#readme-top">retour en haut</a>)</p>
 
@@ -94,12 +31,8 @@ Utilisez le `BLANK_README.md` pour commencer.
 
 Cette section doit répertorier tous les principaux frameworks/bibliothèques utilisés pour démarrer votre projet. Laissez tous les add-ons/plugins pour la section des remerciements. Voici quelques exemples.
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
+* [![PHP][php.net]][PHP-url]
+* [![Html][https://developer.mozilla.org/fr/docs/Web/HTML]][html-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
 
