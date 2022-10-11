@@ -29,12 +29,12 @@ Zikaa est un forum pour permettre aux utilisateurs d'appendre ou bien de trouvé
 
 ### Construit avec
 
-Cette section doit répertorier tous les principaux frameworks/bibliothèques utilisés pour démarrer votre projet. Laissez tous les add-ons/plugins pour la section des remerciements. Voici quelques exemples.
+Voici les languages que nous utilisons dans notre projet.
 
-* [![PHP][php.net]][PHP-url]
-* [![Html][https://developer.mozilla.org/fr/docs/Web/HTML]][html-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+* PHP
+* Html
+* Boostrap
+* JQuery
 
 <p align="right">(<a href="#readme-top">retour en haut</a>)</p>
 
