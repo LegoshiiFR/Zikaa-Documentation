@@ -23,7 +23,7 @@
 
 Zikaa est un forum pour permettre aux utilisateurs d'appendre ou bien de trouvé ce qu'il cherche en un seul endroit. Nous avons mis à dispistion une application qui permet de vendre (gratuitement ou payant) des ressoruces (plugins minecraft / template site web etc..). Zikaa ne prend AUCUNE marge sur votre vente de ressources l'argent sera entièrement distribué pour vous.
 
-<p align="right">(<a href="#readme-top">retour en haut</a>)</p>
+<p align="right">(<a href="#readme-top">⬆️</a>)</p>
 
 
 
@@ -36,7 +36,7 @@ Voici les languages que nous utilisons dans notre projet.
 * Boostrap
 * JQuery
 
-<p align="right">(<a href="#readme-top">retour en haut</a>)</p>
+<p align="right">(<a href="#readme-top">⬆️</a>)</p>
 
 
 
