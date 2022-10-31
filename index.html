@@ -96,11 +96,11 @@
 	============================ -->
 	<div class="idocs-navigation bg-light">
       <ul class="nav flex-column ">
-        <li class="nav-item"><a class="nav-link active" href="#idocs_start">Commencement</a>
+        <li class="nav-item"><a class="nav-link active" href="#start">Commencement</a>
           <ul class="nav flex-column">
-            <li class="nav-item"><a class="nav-link" href="#idocs_intro">Introdcution</a></li>
-            <li class="nav-item"><a class="nav-link" href="#idocs_html_structure">Plan du site</a></li>
-            <li class="nav-item"><a class="nav-link" href="#idocs_sass">Comment utiliser le forum</a></li>
+            <li class="nav-item"><a class="nav-link" href="#intro">Introdcution</a></li>
+            <li class="nav-item"><a class="nav-link" href="#plan">Plan du site</a></li>
+            <li class="nav-item"><a class="nav-link" href="#forum">Comment utiliser le forum</a></li>
           </ul>
         </li>
         <li class="nav-item"><a class="nav-link" href="#idocs_content">Les coins</a>
@@ -137,7 +137,7 @@
         
         <!-- Getting Started
 		============================ -->
-        <section id="idocs_start">
+        <section id="start">
         <h1>Documentation</h1>
         <p class="lead">Voici la documentation officiel de Zikaa.</p>
 		<hr>
@@ -151,7 +151,7 @@
 			<div class="col-sm-6 col-lg-4">
 				<ul class="list-unstyled">
 					<li><strong class="font-weight-700">Crée le:</strong> 12 Octobre, 2022</li>
-					<li><strong>Mise à jour le:</strong> 12 Octobre, 2022</li>
+					<li><strong>Mise à jour le:</strong> 31 Octobre, 2022</li>
 				</ul>
 			</div>
 		</div>
@@ -162,7 +162,7 @@
 		
         <!-- Installation
 		============================ -->
-        <section id="idocs_intro">
+        <section id="intro">
           <h2>Introduction</h2>
           <p>Zikaa est un forum pour permettre aux utilisateurs d'appendre ou bien de trouvé ce qu'il cherche en un seul endroit. Nous avons mis à dispistion une application qui permet de vendre (gratuitement ou payant) des ressoruces (plugins minecraft / template site web etc..). Zikaa ne prend AUCUNE marge sur votre vente de ressources l'argent sera entièrement distribué pour vous.</p>
         </section>
@@ -171,76 +171,30 @@
 		
         <!-- HTML Structure
 		============================ -->
-        <section id="idocs_html_structure">
-          <h2>HTML Structure</h2>
-          <p>iDocs follows a simple and easy to customize coding structure. Here is the sample for your reference:<br>
-            The template is based on <a class="ml-1" target="_blank" href="https://getbootstrap.com/"><i class="fas fa-external-link-alt"></i> Bootstrap Framework</a></p>
-          <pre><code class="html">&lt;!DOCTYPE html&gt;
-&lt;html lang=&quot;en&quot;&gt;
-&lt;head&gt;
-
-&lt;!-- Your Title, Description, Stylesheets
-============================================= --&gt;
-
-&lt;/head&gt;
-
-&lt;body data-spy=&quot;scroll&quot; data-target=&quot;.idocs-navigation&quot; data-offset=&quot;125&quot;&gt;
-
-&lt;!-- Document Wrapper   
-=============================== --&gt;
-&lt;div id=&quot;main-wrapper&quot;&gt; 
-  
-  &lt;!-- Header
-  ============================ --&gt;
-  &lt;header id=&quot;header&quot; class=&quot;sticky-top&quot;&gt;
-   ......
-  &lt;/header&gt;
-  &lt;!-- Header End --&gt; 
-  
-  &lt;!-- Content
-  ============================ --&gt;
-  &lt;div id=&quot;content&quot; role=&quot;main&quot;&gt; 
-    
-    &lt;!-- Sidebar Navigation
-    ============================ --&gt;
-    &lt;div class=&quot;idocs-navigation bg-light&quot;&gt;
-     .....
-    &lt;/div&gt;
-    
-    &lt;!-- Docs Content
-    ============================ --&gt;
-    &lt;div class=&quot;idocs-content&quot;&gt;
-      &lt;div class=&quot;container&quot;&gt;
-        .......
-      &lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  &lt;!-- Content end --&gt; 
-  
-  &lt;!-- Footer --&gt;
-  &lt;footer id=&quot;footer&quot; class=&quot;section bg-dark footer-text-light&quot;&gt;
-    &lt;div class=&quot;container&quot;&gt; ...... &lt;/div&gt;
-  &lt;/footer&gt;
-  &lt;!-- Footer end --&gt; 
-  
-&lt;/div&gt;
-&lt;!-- Document Wrapper end --&gt; 
-
-&lt;!-- JavaScript --&gt;
-&lt;/body&gt;
-&lt;/html&gt;</code></pre>
-          <p class="alert alert-info">If you need more information, please visit bootstrap site: <a target="_blank" href="https://getbootstrap.com/docs/4.4/layout/grid/">https://getbootstrap.com</a></p>
+        <section id="plan">
+          <h2>Plan du site</h2>
+          <p>
+          </br>  <a class="ml-1" target="_blank" href="https://zikaa.fr/"><i class="fas fa-external-link-alt"></i> Site principale</a>
+          </br>  <a class="ml-1" target="_blank" href="https://zikaa.fr/profil/home"><i class="fas fa-external-link-alt"></i> Dashboard</a>
+          </br>  <a class="ml-1" target="_blank" href="https://zikaa.fr/profil/shop"><i class="fas fa-external-link-alt"></i> Shop</a>
+          </br>  <a class="ml-1" target="_blank" href="https://forum.zikaa.fr/"><i class="fas fa-external-link-alt"></i> Forum</a>
+          </br>  <a class="ml-1" target="_blank" href="https://docs.zikaa.fr/"><i class="fas fa-external-link-alt"></i> Documentation</a>
+          </p>
+        
+          <p class="alert alert-info">Besoin de plus d'information ? Rejoingez notre serveur <a target="_blank" href="htts://zikaa.fr/discord">Discord </a>.</p>
         </section>
         
 		<hr class="divider">
 		        
 		<!-- Sass
 		============================ -->
-        <section id="idocs_sass">
-          <h2>Sass</h2>
-          <p>We have added SASS <code>.scss</code> files in template. If you know how to use SASS you can change sass files and compile the css as well.
-            You can find sass file here - <code>HTML/assets/sass</code></p>
-          <p>Open the <code>sass/_variables.scss</code> and Edit the values according to your needs. If you need more Advanced Setup then you can Edit the Respective Files yourself which have been branched inside the same Folder. It is completely at your discretion only to include the Required <code>.scss</code> Files you need to minimize the amount of CSS & including only the Styles of the Blocks you need. This can be setup in your <code>stylesheet.scss</code> File.</p>
+        <section id="forum">
+          <h2>Comment utiliser le forum</h2>
+          <p>Tout d'abord, vous pouvez regarder la vidéo youtube juste en bas pour plus de compréhension. [Bientôt disponible]</p>
+          <div class="img-soon">
+            <img src="./assets/soon.gif" height="150px" width="150px">
+          </div>
+          <p>Version écrite : </br> Tout d'abord il faut <a href="https://forum.zikaa.fr">créer</a> un compte sur notre fourm. Pour cela vous devez cliquer sur le bouton "S'inscrire" et suivre les indications. </br> Pour poster un "thread" c'est à dire un "message", pour cela aller dans la section que vous voulez. Pour ce test, je vais aller dans la section "Discussions Générales" piur écrire un message, je clique donc sur cette section puis je clique sur "Créer une discussion" et je suis les indications. </br> Maintenant voyons comment publié une ressource.</p>
         </section>
         
 		<hr class="divider">
